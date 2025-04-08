@@ -1,0 +1,15 @@
+/* src/components/Header.css */
+.app-header {
+    background-color: #f9f9f9; /* light neutral color (not blue) */
+    color: #333;
+    padding: 8px 20px;
+    text-align: center;       /* center align the text */
+    font-size: 16px;          /* smaller font size */
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
